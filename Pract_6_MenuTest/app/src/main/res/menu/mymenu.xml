@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <item
+        android:id="@+id/newb"
+        android:title="Bookmarks"/>
+    <item
+        android:id="@+id/search"
+        android:title="Search"/>
+    <item
+        android:id="@+id/save"
+        android:title="Save"/>
+    <item
+        android:id="@+id/share"
+        android:title="Share"/>
+    <item
+        android:id="@+id/delete"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"/>
+</menu>
